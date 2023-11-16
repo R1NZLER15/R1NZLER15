@@ -1,5 +1,5 @@
-<h1 align="center">Hi. This is Hector Cobian</h1>
-<h3 align="center">Software & Network Eng. | Experienced in Industrial maintenance, Corporative project launches & IT Operations.</h3>
+<h1 align="center">Hi. This is Hector Cobian 🙌</h1>
+<h3 align="center">Software & Network Eng.<br>Experienced in Industrial maintenance, Corporative project launches & IT Operations.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=r1nzler15&label=Profile%20views&color=0e75b6&style=flat" alt="r1nzler15" /> </p>
 
