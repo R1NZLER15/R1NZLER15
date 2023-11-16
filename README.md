@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=r1nzler15" alt="r1nzler15" /></a> </p>
 
-- 🔭 I’m currently working on **upt_training**}  [![CI/CD Production Status](https://github.com/R1NZLER15/upt-training/actions/workflows/aws-deploy.yml/badge.svg)](https://github.com/R1NZLER15/upt-training/actions/workflows/aws-deploy.yml)
+- 🔭 I’m currently working on **upt_training**  [![CI/CD Production Status](https://github.com/R1NZLER15/upt-training/actions/workflows/aws-deploy.yml/badge.svg)](https://github.com/R1NZLER15/upt-training/actions/workflows/aws-deploy.yml)
 
 - 🌱 I’m currently learning **AWS**
 
