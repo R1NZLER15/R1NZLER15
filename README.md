@@ -1,11 +1,11 @@
 <h1 align="center">Hi. This is Hector Cobian 🙌</h1>
 <h3 align="center">Software & Network Eng.<br>Experienced in Industrial maintenance, Corporative project launches & IT Operations.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=r1nzler15&label=Profile%20views&color=0e75b6&style=flat" alt="r1nzler15" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=r1nzler15&label=PROFILE%20VIEWS&color=blueviolet&style=for-the-badge" alt="r1nzler15" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=r1nzler15" alt="r1nzler15" /></a> </p>
 
-- 🔭 I’m currently working on **upt_training**
+- 🔭 I’m currently working on **upt_training**}  [![CI/CD Production Status](https://github.com/R1NZLER15/upt-training/actions/workflows/aws-deploy.yml/badge.svg)](https://github.com/R1NZLER15/upt-training/actions/workflows/aws-deploy.yml)
 
 - 🌱 I’m currently learning **AWS**
 
